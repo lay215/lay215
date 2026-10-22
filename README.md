@@ -1,4 +1,4 @@
-# Hi, I'm 步履不停 👋
+# Hi, I'm Weizhi 未止 👋
 
 Frontend developer & AI explorer.
 
